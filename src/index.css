@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e0e0e0;
+}
+
+.container {
+  margin: 150px auto;
+  overflow: hidden;
+  width: 80%;
+  text-align: center;
+}
+
+button{
+  background-color: #f8f4f4;
+  border: #d4d4d4;
+  cursor: pointer;
+  transition: .4s;
+}
+
+button:hover{
+  background-color: #999999;
+  color: white;
+}
